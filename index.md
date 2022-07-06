@@ -6,7 +6,6 @@
     <meta name="author" content="author" />
     <meta name="keywords" content="keywords" />
     <link rel="stylesheet" href="./stylesheet.css" type="text/css" />
-    <style type="text/css">.body { width: auto; }</style>
   </head>
   <body>
 <h1><p>Download And Stream Thor: Love And Thunder Full Movie Mp4 (2022), Where?</h1></p>
